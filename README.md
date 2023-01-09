@@ -15,11 +15,11 @@
 ## ✅ 시연 영상
 
 <details><summary>회원가입, 로그인</summary>
-![로그인_회원가입](/uploads/0f667be88a7ef36e9e83574a4e5ccfa6/로그인_회원가입.gif)
+![로그인_회원가입](https://user-images.githubusercontent.com/108056754/211245447-041583fb-6f1b-4d30-bc80-02f0c9bda5f3.gif)
 </details>
 
 <details><summary>홈화면 - 무한스크롤, 찜하기</summary>
-![홈_찜하기](/uploads/2135318500a416c0eb14646eb24dbfa7/홈_찜하기.gif)
+![홈_찜하기](https://user-images.githubusercontent.com/108056754/211245406-832bce5d-dc3c-4d4e-b6fa-0e8516195e02.gif)
 </details>
 
 <details><summary>일반 회원 - 예약&리뷰 CRUD</summary>
